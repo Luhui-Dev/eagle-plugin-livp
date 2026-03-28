@@ -1,0 +1,14 @@
+node_modules/
+*.log
+.DS_Store
+*.livp
+test-samples/
+dist/
+coverage/
+.vscode/
+.idea/
+Thumbs.db
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*

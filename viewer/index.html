@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LIVP Viewer</title>
+    <link rel="stylesheet" href="viewer.css">
+</head>
+<body>
+    <div class="viewer-container">
+        <div class="image-container" id="imageContainer">
+            <img id="mainImage" alt="LIVP Image" />
+            <div class="loading" id="loading">加载中...</div>
+            <div class="error" id="error" style="display: none;"></div>
+        </div>
+        
+        <div class="video-container" id="videoContainer" style="display: none;">
+            <video id="mainVideo" controls preload="metadata">
+                您的浏览器不支持视频播放。
+            </video>
+            <div class="video-error" id="videoError" style="display: none;">
+                视频无法播放，仅显示静态图片。
+            </div>
+        </div>
+        
+        <div class="controls">
+            <button id="toggleVideo" class="toggle-btn" style="display: none;">
+                <span id="toggleText">显示视频</span>
+            </button>
+        </div>
+    </div>
+    
+    <script src="../vendor/jszip.min.js"></script>
+    <script src="viewer.js"></script>
+</body>
+</html>

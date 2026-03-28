@@ -1,0 +1,21 @@
+{
+  "name": "eagle-plugin-livp",
+  "version": "0.1.0",
+  "description": "Eagle plugin for previewing Apple Live Photos in .livp format and generating thumbnails from bundled media",
+  "main": "thumbnail/livp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eagle",
+    "plugin",
+    "livp",
+    "live-photo"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jszip": "^3.10.1",
+    "sharp": "^0.33.0"
+  }
+}
