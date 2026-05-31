@@ -1,11 +1,14 @@
 {
   "id": "dev.luhui.livp-preview",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "platform": "all",
   "arch": "all",
   "name": "LIVP Preview",
   "logo": "/logo.png",
-  "keywords": ["livp", "live photo"],
+  "keywords": [
+    "livp",
+    "live photo"
+  ],
   "devTools": false,
   "preview": {
     "livp": {
