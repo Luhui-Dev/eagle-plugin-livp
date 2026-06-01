@@ -4,6 +4,12 @@
 
 一个为 Eagle 提供 `.livp` 文件缩略图生成和预览能力的插件，适用于 Apple Live Photo 文件。
 
+## 效果展示
+
+![Eagle 中展示的 LIVP 文件列表](./assets/gallery-grid.png)
+
+![LIVP 查看器中的图片和视频预览](./assets/viewer-preview.png)
+
 ## 功能特性
 
 - 自动提取 LIVP 包内最大的 JPG 生成缩略图。

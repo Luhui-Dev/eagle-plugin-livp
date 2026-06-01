@@ -4,6 +4,12 @@
 
 An Eagle plugin that adds thumbnail generation and preview support for Apple Live Photo files in `.livp` format.
 
+## Preview
+
+![LIVP files shown in Eagle gallery](./assets/gallery-grid.png)
+
+![LIVP viewer with image and video preview](./assets/viewer-preview.png)
+
 ## Features
 
 - Generate thumbnails by extracting the largest JPG from a LIVP package.
