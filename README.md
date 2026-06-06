@@ -6,9 +6,9 @@ An Eagle plugin that adds thumbnail generation and preview support for Apple Liv
 
 ## Preview
 
-![LIVP files shown in Eagle gallery](./assets/gallery-grid.png)
+![LIVP files shown in Eagle gallery](./docs/assets/gallery-grid.png)
 
-![LIVP viewer with image and video preview](./assets/viewer-preview.png)
+![LIVP viewer with image and video preview](./docs/assets/viewer-preview.png)
 
 ## Features
 

@@ -6,9 +6,9 @@
 
 ## 效果展示
 
-![Eagle 中展示的 LIVP 文件列表](./assets/gallery-grid.png)
+![Eagle 中展示的 LIVP 文件列表](./docs/assets/gallery-grid.png)
 
-![LIVP 查看器中的图片和视频预览](./assets/viewer-preview.png)
+![LIVP 查看器中的图片和视频预览](./docs/assets/viewer-preview.png)
 
 ## 功能特性
 
